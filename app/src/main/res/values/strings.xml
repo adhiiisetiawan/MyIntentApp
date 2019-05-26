@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyIntentApp</string>
+    <string name="move_activity">Pindah Ke halaman berikutnya</string>
+    <string name="activity_berhasil_dipindah">Activity berhasil dipindah</string>
+    <string name="move_with_data">Pindah dengan data</string>
+    <string name="data_diterma">Data Diterma</string>
+    <string name="move_to_dial">Pindah Halaman ke Telepon</string>
+    <string name="move_object">pindah dengan object</string>
+</resources>
